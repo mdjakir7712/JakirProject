@@ -1,0 +1,351 @@
+
+
+body {
+    background-color: #EEF5FF;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.hi {
+    margin-top: 200px;
+    margin-left: 430px;
+}
+
+.email {
+    width: 500px;
+    height: 80px;
+    background-color: #7248F3;
+    margin-top: 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EEF5FF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+    font-size: 1.5em;
+    transition: all 0.5s ease 0s;
+}
+
+.back {
+    width: 100px;
+    height: 50px;
+    background-color: #EEF5FF;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0d0d0e;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: all 0.5s ease 0s;
+    justify-content: center;
+    margin-right:970px ;
+}
+
+
+
+.back:hover {
+    background-color: #0d0d0e;
+    color: #EEF5FF;
+}
+
+.nav {
+    width: 100%;
+    height: 70px;
+    background-color: #7248F3;
+    display: flex;
+    justify-content: center;
+    justify-content: end;
+}
+
+.icon {
+    display: flex;
+    margin-right: 20px;
+}
+
+.ic1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #1E65F9;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+
+.ic2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient( rgb(4, 0, 255),rgb(221, 15, 187), rgb(184, 1, 144) ,rgb(255, 208, 0));
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ic3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FF1703;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ic4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #0d0d0e;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.icon1 {
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+@media (max-width : 1280px) {
+    .back {
+        margin-right: 890px;
+    }
+}
+
+@media (max-width : 1115px) {
+    .nav {
+      justify-content: center;
+      justify-content: space-evenly;
+    }
+
+    .icon {
+        margin-left: 000px;
+    }
+
+    .hi {
+        margin-left: 300px;
+    }
+
+    .back {
+        margin-right: 0px;
+    }
+}
+
+@media (max-width : 1000px) {
+    .hi {
+        margin-left: 200px;
+    }
+}
+
+@media (max-width : 750px) {
+    .hi {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width : 650px) {
+    .hi {
+        margin-left: 60px;
+    }
+}
+
+
+@media (max-width : 600px) {
+    .hi {
+        margin-left: 60px;
+    }
+
+    .email {
+        width: 400px;
+        height: 60px;
+        background-color: #7248F3;
+        margin-top: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #EEF5FF;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 550;
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width : 500px) {
+    .hi {
+        margin-left: 60px;
+    }
+
+    .email {
+        width: 350px;
+        height: 60px;
+        background-color: #7248F3;
+        margin-top: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #EEF5FF;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 550;
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width : 430px) {
+    .hi {
+        margin-left: 50px;
+    }
+
+    .email {
+        width: 300px;
+        height: 60px;
+        background-color: #7248F3;
+        margin-top: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #EEF5FF;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 550;
+        font-size: 1.5em;
+    }
+}
+
+
+@media (max-width : 360px) {
+    .hi {
+        margin-left: 20px;
+    }
+
+    .email {
+        width: 300px;
+        height: 60px;
+        background-color: #7248F3;
+        margin-top: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #EEF5FF;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 550;
+        font-size: 1.2em;
+    }
+
+    .ic1 {
+        width: 35px;
+        height: 35px;
+    }
+    
+    .ic2 {
+        width: 35px;
+        height: 35px;
+    }
+
+    .ic3 {
+        width: 35px;
+        height: 35px;
+    }
+
+    .ic4 {
+        width: 35px;
+        height: 35px;
+    }
+
+    .icon1 {
+        color: #ffffff;
+        margin-top: 5px;
+        margin-left: 5px;
+        text-decoration: none;
+        font-size: 25px;
+    }
+
+    .icon {
+        margin-top: 5px;
+    }
+
+    .back {
+        width: 80px;
+        height: 40px;
+    }
+}
+
+@media (max-width : 340px) {
+    .hi {
+        margin-left: 20px;
+    }
+
+    .ic1 {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .ic2 {
+        width: 30px;
+        height: 30px;
+    }
+
+    .ic3 {
+        width: 30px;
+        height: 30px;
+    }
+
+    .ic4 {
+        width: 30px;
+        height: 30px;
+    }
+
+    .icon1 {
+        color: #ffffff;
+        margin-top: 5px;
+        margin-left: 5px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .icon {
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-left: 0;
+    }
+    
+    .back {
+        width: 705x;
+        height: 35px;
+        font-size: 0.1;
+        font-weight: 100;
+    }
+
+    .email {
+        width: 250px;
+        height: 40px;
+        background-color: #7248F3;
+        margin-top: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #EEF5FF;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 550;
+        font-size: 1.2em;
+    }
+}

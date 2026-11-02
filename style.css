@@ -1,0 +1,1113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EEF5FF;
+}
+
+.navbar {
+    width: 100%;
+    height: 500px;
+    background-color: #7248F3;
+    display: flex;
+}
+
+.nav-nav {
+    width: 74.2%;
+    height: 495px;
+    background-color: #EEF5FF;
+    position: absolute;
+    margin-left: 350px;
+}
+
+.home {
+    height: 30px;
+    color: #EEF5FF;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: all 0.5s ease 0s;
+}
+
+.home:hover {
+    color: black;
+}
+
+.pic {
+    width: 300px;
+    height: 300px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.pic2 {
+    width: 280px;
+    height: 280px;
+    background-color: #EEF5FF;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.pic3 {
+    width: 250px;
+    height: 250px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: flex;
+
+}
+
+.pic4 {
+    width: 230px;
+    height: 230px;
+    background-image: url(img/jakir.jpg);
+    border-radius: 50%;
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ic {
+    margin-left: 150px;
+}
+
+.icon {
+    display: flex;
+}
+
+.ic1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #1E65F9;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ic2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient( rgb(4, 0, 255),rgb(221, 15, 187), rgb(184, 1, 144) ,rgb(255, 208, 0));
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ic3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FF1703;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ic4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #0d0d0e;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+}
+
+.icon1 {
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.hi {
+    position: relative;
+    width: 450PX;
+    height: 110PX;
+    align-self: center;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+
+}
+
+.jakir {
+    width: 500px;
+    color: #2C2B38;
+}
+
+.welcome {
+    align-self: center;
+    color: #7248F3;
+    width: 400px;
+    font-size: 1.3em;
+    margin-top: 10px;
+}
+
+.button {
+    margin-top: 10px;
+    align-self: flex-end;
+    width: 100px;
+    height: 35px;
+    background-color: #7248F3;
+    border-radius: 2.5px;
+}
+
+
+.lb {
+    text-decoration:none;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #EEF5FF;
+    background-color: #7248F3;
+    font-weight: 200;
+}
+
+/** mean**/
+
+.mean {
+    width: 100%;
+    height: 500px;
+    background-color: #EEF5FF;
+    position: relative;
+}
+
+.projects {
+    width: 500px;
+    height: 180px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 210px;
+}
+
+.jakir2 {
+    width: 500px;
+    font-size: 2em;
+    color: #2C2B38;
+}
+
+.welcome2 {
+    align-self: center;
+    color: #7248F3;
+    width: 370px;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.lb2 {
+    text-decoration:none;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #EEF5FF;
+    background-color: #7248F3;
+    font-weight: 200;
+}
+
+.pic5 {
+    width: 280px;
+    height: 280px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 125px;
+}
+
+.pic6 {
+    width: 260px;
+    height: 260px;
+    background-image: url(img/jakir2.jpg);
+    border-radius: 50%;
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.welcome3 {
+    align-self: center;
+    color: #7248F3;
+    width: 300px;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.projects2 {
+    width: 500px;
+    height: 180px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 800px;
+}
+
+.pic7 {
+    width: 280px;
+    height: 280px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 200px;
+}
+
+.pic8 {
+    width: 260px;
+    height: 260px;
+    background-image: url(img/jakir3.jpg);
+    border-radius: 50%;
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.contact {
+    width: 300px;
+    height: 100px;
+    background-color: #EEF5FF;
+    font-weight: 550;
+    font-size: 1.5em;
+    color: #2C2B38;
+    margin-left: 40px;
+
+}
+
+
+.to-top {
+    background: #0d0d0e;
+    position: fixed;
+    bottom: 15px;
+    right:30px;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:32px;
+    color:#EEF5FF;
+    text-decoration: none;
+    opacity:0;
+    pointer-events: none;
+    transition: all .4s;
+}
+
+.to-top.active {
+    bottom: 32px;
+    pointer-events: auto;
+    opacity: 1;
+}
+
+.to-top:hover {
+    background-color: #eef5ffcc;
+    color: #2C2B38;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #EEF5FF;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4a22c2;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
+@media (max-width : 1115px) {
+    
+.nav-nav {
+    width: 73.1%;
+    margin-left: 300px;
+}
+
+.pic {
+    width: 300px;
+    height: 300px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.pic2 {
+    width: 280px;
+    height: 280px;
+    background-color: #EEF5FF;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.pic3 {
+    width: 250px;
+    height: 250px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: flex;
+
+}
+
+.pic4 {
+    width: 230px;
+    height: 230px;
+    background-image: url(img/jakir.jpg);
+    border-radius: 50%;
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ic {
+    margin-left: 100px;
+}
+
+.icon {
+    margin-top: 40px;
+    display: grid;
+    margin-left: 00px;
+}
+
+.projects {
+    width: 500px;
+    height: 180px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 110px;
+}
+
+.pic5 {
+    width: 280px;
+    height: 280px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 125px;
+}
+
+.projects2 {
+    width: 400px;
+    height: 180px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 650px;
+}
+
+.pic7 {
+    width: 280px;
+    height: 280px;
+    background-color: #7248F3;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 110px;
+}
+
+.contact {
+    width: 300px;
+    height: 100px;
+    background-color: #EEF5FF;
+    font-weight: 550;
+    font-size: 1.5em;
+    color: #2C2B38;
+    margin-left: 40px;
+}
+
+.mean {
+    width: 1105px;
+    height: 500px;
+    background-color: #EEF5FF;
+    position: relative;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width : 1055px) {
+    
+    .nav-nav {
+        width: 73.1%;
+        margin-left: 300px;
+    }
+    
+    .pic {
+        width: 300px;
+        height: 300px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: relative;
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    
+    .pic2 {
+        width: 280px;
+        height: 280px;
+        background-color: #EEF5FF;
+        border-radius: 50%;
+        margin-left: 10px;
+        margin-top: 10px;
+        display: flex;
+    }
+    
+    .pic3 {
+        width: 250px;
+        height: 250px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        margin-left: 15px;
+        margin-top: 15px;
+        display: flex;
+    
+    }
+    
+    .pic4 {
+        width: 230px;
+        height: 230px;
+        background-image: url(img/jakir.jpg);
+        border-radius: 50%;
+        background-size: cover;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    
+    .ic {
+        margin-left: 100px;
+    }
+    
+    .icon {
+        margin-top: 50px;
+        display: grid;
+        margin-left: 00px;
+    }
+    
+    .projects {
+        width: 500px;
+        height: 180px;
+        position: absolute;
+        margin-top: 160px;
+        margin-left: 110px;
+    }
+    
+    .pic5 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-left: 650px;
+        margin-top: 125px;
+    }
+    
+    .projects2 {
+        width: 400px;
+        height: 180px;
+        position: absolute;
+        margin-top: 160px;
+        margin-left: 650px;
+    }
+    
+    .pic7 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-top: 125px;
+        margin-left: 110px;
+    }
+    
+    .contact {
+        width: 300px;
+        height: 100px;
+        background-color: #EEF5FF;
+        font-weight: 550;
+        font-size: 1.5em;
+        color: #2C2B38;
+        margin-left: 40px;
+    }
+    
+    .mean {
+        width: 1105px;
+        height: 500px;
+        background-color: #EEF5FF;
+        position: relative;
+    }
+    
+    body {
+        overflow-x: hidden;
+    }
+    
+}
+
+
+
+
+
+
+
+@media (max-width : 430px) {
+    
+    .navbar{
+        width: 100%;
+        height: 650px;
+    }
+
+    .nav-nav {
+        position: absolute;
+        width: 100%;
+        margin-left: 00px;
+        margin-top: 180px;     
+        height: 465px;   
+    }
+
+    .hi {
+        margin-top: 250px;
+        margin-left: 20px;
+        position: absolute;
+        width: 400px;
+        
+    }
+
+    .jakir {
+        width: 400px;
+    }
+
+    .welcome {
+        width: 400px;
+    }
+
+    .jakir2 {
+        width: 400px;
+    }
+
+    .welcome2{
+        width: 400px;
+    }
+
+    .pic {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute; 
+        margin-left: 75px;
+        margin-top: 30px;
+    }
+    
+    .pic2 {
+        width: 250px;
+        height: 250px;
+        background-color: #EEF5FF;
+        border-radius: 50%;
+        margin-left: 15px;
+        margin-top: 15px;
+        display: flex;
+    }
+    
+    .pic3 {
+        width: 230px;
+        height: 230px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        margin-left: 10px;
+        margin-top: 10px;
+        display: flex;
+    
+    }
+    
+    .pic4 {
+        width: 200px;
+        height: 200px;
+        background-image: url(img/jakir.jpg);
+        border-radius: 50%;
+        background-size: cover;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+    
+    .ic {
+        margin-left: 00px;
+        position: absolute;
+    }
+    
+    .icon {
+        margin-top: 50px;
+        display: flex;
+        position: absolute;
+        margin-top: 560px;
+        margin-left: 75px;
+    }
+    
+    .projects {
+        width: 400px;
+        height: 180px;
+        position: absolute;
+        margin-top: 500px;
+        margin-left: 20px;
+    }
+    
+    .pic5 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-left: 75px;
+        margin-top: 125px;
+    }
+    
+    .projects2 {
+        width: 400px;
+        height: 180px;
+        position: absolute;
+        margin-top: 500px;
+        margin-left: 20px;
+    }
+    
+    .pic7 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-top: 125px;
+        margin-left: 75px;
+    }
+    
+    .contact {
+        width: 300px;
+        height: 150px;
+        background-color: #EEF5FF;
+        font-weight: 550;
+        font-size: 1.5em;
+        color: #2C2B38;
+        margin-left: 20px;
+        margin-top: 80px;
+    }
+    
+    .mean {
+        width: 430px;
+        height: 750px;
+        background-color: #EEF5FF;
+        position: relative;
+    }
+    
+    body {
+        overflow-x: hidden;
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width : 400px) {
+    
+    .navbar{
+        width: 100%;
+        height: 650px;
+    }
+
+    .nav-nav {
+        position: absolute;
+        width: 100%;
+        margin-left: 00px;
+        margin-top: 180px;     
+        height: 465px;   
+    }
+
+    .hi {
+        margin-top: 250px;
+        margin-left: 20px;
+        position: absolute;
+    }
+
+    .jakir {
+        width: 380px;
+    }
+
+    .welcome {
+        width: 380px;
+    }
+
+    .jakir2 {
+        width: 380px;
+    }
+
+    .welcome2{
+        width: 380px;
+    }
+
+    .welcome3 {
+        width: 380px;
+    }
+
+
+    .pic {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute; 
+        margin-left: 60px;
+        margin-top: 30px;
+    }
+    
+    .pic2 {
+        width: 250px;
+        height: 250px;
+        background-color: #EEF5FF;
+        border-radius: 50%;
+        margin-left: 15px;
+        margin-top: 15px;
+        display: flex;
+    }
+    
+    .pic3 {
+        width: 230px;
+        height: 230px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        margin-left: 10px;
+        margin-top: 10px;
+        display: flex;
+    
+    }
+    
+    .pic4 {
+        width: 200px;
+        height: 200px;
+        background-image: url(img/jakir.jpg);
+        border-radius: 50%;
+        background-size: cover;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+    
+    .ic {
+        margin-left: 00px;
+        position: absolute;
+    }
+    
+    .icon {
+        margin-top: 50px;
+        display: flex;
+        position: absolute;
+        margin-top: 560px;
+        margin-left: 60px;
+    }
+    
+    .projects {
+        width: 380px;
+        height: 180px;
+        position: absolute;
+        margin-top: 500px;
+        margin-left: 20px;
+        font-size: 1.1em;
+    }
+    
+    .pic5 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-left: 60px;
+        margin-top: 125px;
+    }
+    
+    .projects2 {
+        width: 380px;
+        height: 180px;
+        position: absolute;
+        margin-top: 500px;
+        margin-left: 20px;
+    }
+    
+    .pic7 {
+        width: 280px;
+        height: 280px;
+        background-color: #7248F3;
+        border-radius: 50%;
+        position: absolute;
+        margin-top: 125px;
+        margin-left: 60px;
+    }
+    
+    .contact {
+        width: 300px;
+        height: 150px;
+        background-color: #EEF5FF;
+        font-weight: 550;
+        font-size: 1.5em;
+        color: #2C2B38;
+        margin-left: 20px;
+        margin-top: 80px;
+    }
+    
+    .mean {
+        width: 400px;
+        height: 750px;
+        background-color: #EEF5FF;
+        position: relative;
+    }
+    
+    body {
+        overflow-x: hidden;
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width : 360px) {
+    
+        .navbar{
+            width: 100%;
+            height: 650px;
+        }
+    
+        .nav-nav {
+            position: absolute;
+            width: 100%;
+            margin-left: 00px;
+            margin-top: 180px;     
+            height: 465px;   
+        }
+    
+        .hi {
+            margin-top: 250px;
+            margin-left: 10px;
+            position: absolute;
+            font-size: 1.0em;
+            width: 350px;
+        }
+
+        .jakir {
+            width: 350px;
+        }
+
+        .welcome {
+            width: 350px;
+        }
+
+        .jakir2 {
+            width: 350px;
+        }
+
+        .welcome2{
+            width: 350px;
+        }
+
+        .welcome3 {
+            width: 350px;
+        }
+
+        .pic {
+            width: 280px;
+            height: 280px;
+            background-color: #7248F3;
+            border-radius: 50%;
+            position: absolute; 
+            margin-left: 40px;
+            margin-top: 30px;
+        }
+        
+        .pic2 {
+            width: 250px;
+            height: 250px;
+            background-color: #EEF5FF;
+            border-radius: 50%;
+            margin-left: 15px;
+            margin-top: 15px;
+            display: flex;
+        }
+        
+        .pic3 {
+            width: 230px;
+            height: 230px;
+            background-color: #7248F3;
+            border-radius: 50%;
+            margin-left: 10px;
+            margin-top: 10px;
+            display: flex;
+        
+        }
+        
+        .pic4 {
+            width: 200px;
+            height: 200px;
+            background-image: url(img/jakir.jpg);
+            border-radius: 50%;
+            background-size: cover;
+            margin-left: 15px;
+            margin-top: 15px;
+        }
+        
+        .ic {
+            margin-left: 00px;
+            position: absolute;
+        }
+        
+        .icon {
+            margin-top: 50px;
+            display: flex;
+            position: absolute;
+            margin-top: 560px;
+            margin-left: 40px;
+        }
+        
+        .projects {
+            width: 350px;
+            height: 180px;
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 10px;
+            font-size: 0.9em;
+
+        }
+        
+        .pic5 {
+            width: 280px;
+            height: 280px;
+            background-color: #7248F3;
+            border-radius: 50%;
+            position: absolute;
+            margin-left: 40px;
+            margin-top: 125px;
+        }
+        
+        .projects2 {
+            width: 350px;
+            height: 180px;
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 10px;
+            font-size: 0.9em;
+
+        }
+        
+        .pic7 {
+            width: 280px;
+            height: 280px;
+            background-color: #7248F3;
+            border-radius: 50%;
+            position: absolute;
+            margin-top: 125px;
+            margin-left: 40px;
+        }
+        
+        .contact {
+            width: 300px;
+            height: 150px;
+            background-color: #EEF5FF;
+            font-weight: 550;
+            font-size: 1.5em;
+            color: #2C2B38;
+            margin-left: 10px;
+            margin-top: 80px;
+        }
+        
+        .mean {
+            width: 360px;
+            height: 750px;
+            background-color: #EEF5FF;
+            position: relative;
+        }
+        
+        body {
+            overflow-x: hidden;
+        }
+        
+        }
